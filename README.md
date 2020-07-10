@@ -1,6 +1,6 @@
 # Jeannie Nguyen
 
-Hi, I'm Jeannie—a software engineer who loves to create technology that elevates others and builds community. 🌎&nbsp;
+Hi, I'm Jeannie—a software engineer who loves to create technology that elevates others and builds community. 🌎
 
 🌉&nbsp; Los Angeles, CA - raised by the Bay<br>
 🧗‍♀️&nbsp; Sports enthusiast (currently: powerlifting & bouldering)<br>
