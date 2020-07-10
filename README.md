@@ -1,6 +1,6 @@
 # Jeannie Nguyen
 
-Hi, I'm Jeannie—a software engineer who loves to create technology that elevates others and builds community. 🌎&nbsp; I'm from the middle of LA and OC, CA.. but my heart belongs to the Bay. 🧡&nbsp; I'm a sports enthusiast (currently powerlifting + bouldering), I love discovering new music/artists (send me your favorite albums!), and I geek out on games (like Pok&eacute;mon) + anime (currently watching Demon Slayer).
+Hi, I'm Jeannie—a software engineer who loves to create technology that elevates others and builds community. 🌎&nbsp; I'm from the middle of LA and OC, CA.. but my heart belongs to the Bay. 🧡&nbsp; I'm a sports enthusiast (currently powerlifting + bouldering), I love discovering new music/artists (send me your favorite albums!), and I geek out on games + anime (currently watching Demon Slayer).
 
 ## My values
 
