@@ -9,6 +9,6 @@ Hi, I'm Jeannie—a software engineer who loves to create technology that elevat
 
 ## A Few Projects
 
-- [Change the Bias](https://changethebias.com/) #BlackLivesMatter [HTML, CSS, JS + Google Analytics, Netlify]
+- [Change the Bias](https://changethebias.com/) #BlackLivesMatter [HTML, CSS, JS + Google Analytics + Netlify]
 - [Tiny Versus Bot: Get Your Pokémon Team](http://tinyversusbot.herokuapp.com/) [Python + Heroku]
 - [Tiny Versus Bot: Twitter Bot](https://twitter.com/tinyversusbot) [Python + AWS Lambda]
