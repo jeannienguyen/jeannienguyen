@@ -5,7 +5,6 @@ Hi, I'm Jeannie—a software engineer who loves to create technology that elevat
 🌉&nbsp; Los Angeles, CA - raised by the Bay<br>
 🍏&nbsp; Learning to learn fast<br>
 ⏩&nbsp; Progress > perfection<br>
-🧗‍♀️&nbsp; Sports enthusiast (currently: powerlifting & bouldering)<br>
 🎶&nbsp; Always excited to discover new music/artists
 
 ## Find me around the web
