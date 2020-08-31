@@ -2,6 +2,10 @@
 
 Hi, I'm Jeannie—a software engineer who loves to create technology that elevates others and builds community. 🌎&nbsp; I write about what I learn and my journey as a web developer.
 
+## Currently
+- Building an app to learn React Native
+- Finishing up a project in WordPress / PHP
+
 ## Find me around the web
 
 - [LinkedIn](https://www.linkedin.com/in/jeannie-t-nguyen/)
