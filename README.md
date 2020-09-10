@@ -3,7 +3,7 @@
 Hi, I'm Jeannie—a software engineer who loves to create technology that elevates others and builds community. 🌎&nbsp; I write about what I learn and my journey as a web developer.
 
 ## Currently
-- 🌱&nbsp; Learning React Native by building an app
+- 🌱&nbsp; Building my personal website
 - 🚧&nbsp; Finishing up a project in WordPress / PHP
 
 ## Find me around the web
