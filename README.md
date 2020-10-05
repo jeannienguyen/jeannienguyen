@@ -4,6 +4,7 @@ Hi, I'm Jeannie—a software engineer who loves to create technology that elevat
 
 ## Currently
 - 🌱&nbsp; Building my personal website
+- 🌱&nbsp; Building a website for a friend's business
 - 🚧&nbsp; Finishing up a project in WordPress / PHP
 
 ## Find me around the web
