@@ -1,6 +1,6 @@
 # Jeannie Nguyen
 
-Hi, I'm Jeannie—a software engineer who loves to create technology that elevates others and builds community. 🌎&nbsp; I tell stories through code. I write about what I learn and my journey as a web developer.
+Hi, I'm Jeannie—a software engineer who loves to create technology that elevates others and builds community. 🌎&nbsp; I bring stories to life through code. I write about what I learn and my journey as a web developer.
 
 ## Currently
 - 🌱&nbsp; Building my personal website
