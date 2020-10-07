@@ -1,11 +1,11 @@
-# Jeannie Nguyen
+# Hey, I'm Jeannie
 
-Hi, I'm Jeannie—a software engineer who loves to create technology that elevates others and builds community. 🌎&nbsp; I bring stories to life through code. I write about what I learn and my journey as a web developer.
+I'm a software engineer in LA who loves to create technology that elevates others and builds community. 🌎&nbsp; I bring stories to life through code. I write about what I learn and my journey as a web developer. Ask me about how I brought together my love for fitness and technology!
 
 ## Currently
 - 🌱&nbsp; Building my personal website
-- 🌱&nbsp; Building a website for a friend's business
-- 🚧&nbsp; Finishing up a project in WordPress / PHP
+- 🌱&nbsp; Building a photography website for a friend's business
+- 🚧&nbsp; Finishing up a music project in WordPress / PHP
 
 ## Find me around the web
 
