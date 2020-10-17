@@ -1,6 +1,6 @@
 # Hey, I'm Jeannie
 
-I'm a software engineer in LA who loves to create technology that elevates others and builds community. 🌎&nbsp; I bring stories to life through code. I write about what I learn and my journey as a web developer. Ask me about how I brought together my love for fitness and technology!
+I'm a software engineer in LA who loves to create technology that elevates others and builds community. 🌎&nbsp; I bring stories to life through code. I write about what I learn and my journey as a web developer.
 
 ## Currently
 
