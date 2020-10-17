@@ -11,8 +11,8 @@ I'm a software engineer in LA who loves to create technology that elevates other
 
 ## Find me around the web
 
-- [LinkedIn](https://www.linkedin.com/in/jeannie-t-nguyen/)
-- [Dev.to](https://dev.to/jeannienguyen)
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/jeannie-t-nguyen/)
+- Writing posts on [Dev.to](https://dev.to/jeannienguyen)
 
 ## A few projects
 
