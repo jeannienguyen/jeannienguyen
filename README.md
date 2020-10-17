@@ -3,9 +3,11 @@
 I'm a software engineer in LA who loves to create technology that elevates others and builds community. 🌎&nbsp; I bring stories to life through code. I write about what I learn and my journey as a web developer. Ask me about how I brought together my love for fitness and technology!
 
 ## Currently
-- 🌱&nbsp; Building my personal website
-- 🌱&nbsp; Building a photography website for a friend's business
-- 🚧&nbsp; Finishing up a music project in WordPress / PHP
+
+- 🌱&nbsp; Getting ready to release my personal website
+- 🌱&nbsp; Building a website for an upcoming photography business
+- 🚧&nbsp; Helping a fitness brand redesign and optimize their website
+- 📚&nbsp; Learning more about System Design, Data Structures, and Algorithms
 
 ## Find me around the web
 
