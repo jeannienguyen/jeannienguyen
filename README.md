@@ -17,6 +17,6 @@ I'm a software engineer in LA who loves to create technology that elevates other
 ## A few projects
 
 - [Change the Bias](https://changethebias.com/) #BlackLivesMatter [HTML, CSS, JS + Google Analytics + Netlify]
+- [Audio LINEUP](https://audiolineup.com/) [WordPress, PHP]
 - [Tiny Versus Bot: Get Your Pokémon Team](http://tinyversusbot.herokuapp.com/) [Python + Heroku]
-- [Tiny Versus Bot: Twitter Bot](https://twitter.com/tinyversusbot) [Python + AWS Lambda]
 - [Twitter Bot Skeleton](https://github.com/jeannienguyen/mha_screencaps) [Python + AWS Lambda]
