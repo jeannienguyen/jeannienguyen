@@ -10,7 +10,7 @@ I bring stories to life through code. I write about what I learn and my journey 
 
 ## Find me around the web
 
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/jeannie-t-nguyen/)
+- Sharing stories on [LinkedIn](https://www.linkedin.com/in/jeannie-t-nguyen/)
 - Writing posts on [Dev.to](https://dev.to/jeannienguyen)
 
 ## A few projects
