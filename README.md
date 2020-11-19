@@ -7,14 +7,12 @@ I bring stories to life through code. I write about what I learn and my journey 
 
 ## Currently
 
-- 🌱&nbsp; Getting ready to release my personal website
-- 🌱&nbsp; Building a website for an upcoming photography business
 - 🚧&nbsp; Helping a fitness brand redesign and optimize their website
 - 📚&nbsp; Learning more about System Design, Data Structures, and Algorithms
 
 ## Find me around the web
 
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/jeannie-t-nguyen/)
+- Sharing stories on [LinkedIn](https://www.linkedin.com/in/jeannie-t-nguyen/)
 - Writing posts on [Dev.to](https://dev.to/jeannienguyen)
 
 ## A few projects
