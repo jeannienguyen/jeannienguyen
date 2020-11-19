@@ -2,13 +2,7 @@
 
 ![Repository Banner](jeannienguyen-banner.png)
 
-I'm a software engineer in LA who loves to create technology that elevates others and builds community. 🌎&nbsp;  
-I bring stories to life through code. I write about what I learn and my journey as a web developer.
-
-## Currently
-
-- 🚧&nbsp; Helping a fitness brand redesign and optimize their website
-- 📚&nbsp; Learning more about System Design, Data Structures, and Algorithms
+I'm a software engineer in LA who loves to create technology that elevates others and builds community. 🌎&nbsp; I bring stories to life through code and write about my journey as a developer. I'm currently 🚧&nbsp; helping a fitness brand redesign + optimize their website and 📚&nbsp; am learning more about System Design, Data Structures, and Algorithms.
 
 ## Find me around the web
 
