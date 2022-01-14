@@ -1,4 +1,4 @@
-# Hey, I'm Jeannie 👋🏼
+# Hi, I'm Jeannie 👋🏼
 
 ![Repository Banner](jeannienguyen-banner.png)
 
