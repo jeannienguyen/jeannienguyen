@@ -7,7 +7,7 @@ I'm a software engineer in LA who loves to create technology that elevates other
 ## Find me around the web
 
 - Sharing stories on [LinkedIn](https://www.linkedin.com/in/jeannie-t-nguyen/)
-- Writing posts on [Dev.to](https://dev.to/jeannienguyen)
+- Documenting my journey on [Dev.to](https://dev.to/jeannienguyen)
 
 ## A few projects
 
